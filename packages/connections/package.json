@@ -28,7 +28,7 @@
     "@types/chrome": "^0.0.246",
     "events": "^3.3.0",
     "json-rpc-2.0": "1.7.0",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.0"
   },
   "peerDependencies": {
     "@fuels/connectors": ">=0.5.0",
@@ -42,7 +42,7 @@
     "fuels": "pr-2479",
     "jest-environment-jsdom": "29.6.2",
     "tsup": "^7.2.0",
-    "undici": "^6.4.0",
+    "undici": "^6.24.0",
     "web-streams-polyfill": "^3.3.2",
     "whatwg-fetch": "^3.6.20"
   }
